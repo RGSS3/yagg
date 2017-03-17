@@ -1,4 +1,6 @@
-*** YAGG
+*** 
+
+YAGG
 
 'yet another' generator for generation  
 
